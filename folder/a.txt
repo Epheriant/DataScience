@@ -1,1 +1,5 @@
+Title goes here
+
 This is a test file
+I have just added this new paragraph.
+Let's see how easy is to commit.
